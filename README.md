@@ -9,6 +9,9 @@ The goal is to identify data-driven strategies to convert casual riders into ann
 
 ---
 
+## Tools
+SQL, BigQuery, Tableau
+
 ## 📊 Dashboard
 View the interactive Tableau dashboard:  
 
@@ -71,7 +74,7 @@ Data provided by Motivate International Inc.
 ## 📌 Conclusion
 
 This analysis reveals clear behavioral differences between casual riders and members.  
-Casual riders show strong engagement but use the service differently, presenting a strong opportunity for targeted marketing strategies to drive membership conversion.## 
+Casual riders show strong engagement but use the service differently, presenting a strong opportunity for targeted marketing strategies to drive membership conversion.
 
 ## 👤 Author
 Juan Dushane
