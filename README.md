@@ -2,14 +2,16 @@
 Cyclistic bike-share case study analyzing rider behavior using SQL and Tableau
 # Cyclistic Case Study – Rider Behavior Analysis
 
-## 📌 Project Overview
-This project analyzes behavioral differences between casual riders and annual members using Cyclistic bike-share data. The goal is to identify opportunities to convert casual riders into members.
+## 📊 Project Overview
+
+This case study analyzes how casual riders and annual members use Cyclistic bikes differently.  
+The goal is to identify data-driven strategies to convert casual riders into annual members.
 
 ---
 
 ## 📊 Dashboard
 View the interactive Tableau dashboard:  
-[PASTE YOUR TABLEAU LINK HERE]
+https://public.tableau.com/views/Cyclistic_Dashboard_17773514701470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -45,7 +47,8 @@ Key steps:
 ---
 
 ## 🧾 SQL Queries
-(You will add your SQL file here next step)
+View the full SQL analysis here:  
+👉 [cyclistic_analysis.sql](./cyclistic_analysis.sql)
 
 ---
 
