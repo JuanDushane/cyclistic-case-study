@@ -68,7 +68,7 @@ Data provided by Motivate International Inc.
 - SQL (data cleaning & analysis)  
 - Tableau (visualization)  
 - Google Docs (reporting)
-- BigQuery (analysis)
+- BigQuery (data storage % querying)
 
 ---
 ## 📌 Conclusion
