@@ -11,15 +11,16 @@ The goal is to identify data-driven strategies to convert casual riders into ann
 
 ## 📊 Dashboard
 View the interactive Tableau dashboard:  
-https://public.tableau.com/views/Cyclistic_Dashboard_17773514701470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+👉 [View Interactive Dashboard](https://public.tableau.com/app/profile/juan.dushane/viz/Cyclistic_Dashboard_17773514701470/Dashboard1)
 
 ---
 
 ## 🔍 Key Insights
 
 ### 1. Ride Length Differences
-Casual riders take longer trips (~36 minutes) compared to members (~15 minutes).  
-This suggests casual riders use bikes for leisure, while members use them for commuting.
+Casual riders take significantly longer trips (~36 minutes) compared to members (~15 minutes), 
+indicating a stronger focus on leisure usage rather than commuting.
 
 ### 2. Day of Week Behavior
 Casual riders prefer weekends, while members ride consistently throughout the week.
@@ -63,9 +64,14 @@ Data provided by Motivate International Inc.
 ## 🛠 Tools Used
 - SQL (data cleaning & analysis)  
 - Tableau (visualization)  
-- Google Docs (reporting)  
+- Google Docs (reporting)
+- BigQuery (analysis)
 
 ---
+## 📌 Conclusion
+
+This analysis reveals clear behavioral differences between casual riders and members.  
+Casual riders show strong engagement but use the service differently, presenting a strong opportunity for targeted marketing strategies to drive membership conversion.## 
 
 ## 👤 Author
 Juan Dushane
